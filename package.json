@@ -1,0 +1,14 @@
+{
+  "name": "@i18ncore/fetcher",
+  "version": "1.0.0",
+  "description": "The fetcher npm package which will sync with your cloud storage provider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "evan burbidge thewebuiguy@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.610.0"
+  }
+}
