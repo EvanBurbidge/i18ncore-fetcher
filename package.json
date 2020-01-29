@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.610.0"
+  },
+  "devDependencies": {
+    "tslib": "^1.10.0"
   }
 }
